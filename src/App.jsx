@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import './App.css'; // For custom styling
+import './App.css'; 
 import avatar from './avatar.png';
 
 class App extends Component {
